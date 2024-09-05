@@ -4,17 +4,19 @@
 
 ## Мой стек технологий
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Webpack-000?logo=webpack&logoColor=8DD6F9&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=1572B6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Redux-000?logo=redux&logoColor=764ABC&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933&style=for-the-badge" />
-</p>
+
+<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>
+</div>
+<br>
 
 ## Контакты
 
